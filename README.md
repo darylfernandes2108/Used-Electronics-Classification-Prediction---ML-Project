@@ -1,4 +1,4 @@
-# Used Electronics Classification Prediction
+# Used Electronics Classification Prediction using Random Forest, XGBoost, and SVM (Support Vector Machine)
 
 ## Overview
 This repository contains a project focused on classifying used electronics based on various features using machine learning techniques, specifically Random Forest, XGBoost, and Support Vector Machine (SVM). The goal of this project is to predict the category of used electronic items, which can be beneficial for both consumers and sellers in the second-hand market.
